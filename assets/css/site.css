@@ -318,3 +318,4 @@ input:focus, textarea:focus, select:focus { outline: none; border-color: var(--b
 .visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
 .nav .btn-blue, .nav .btn-blue:hover { color: #fff; }
 .job-card-foot { gap: 12px; flex-wrap: wrap; }
+.section-navy .job-card h3, .section-navy .tilly-empty h3 { color: var(--ink); }
