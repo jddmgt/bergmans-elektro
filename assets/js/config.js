@@ -7,6 +7,6 @@
 //   ?tilly=<slug>&tillyOrigin=https://app.tilly-hr.com
 // once; the values are remembered in this browser. Add ?tillyReset=1 to forget them.
 window.TILLY_CONFIG = {
-  origin: 'https://tilly-hr-dev.azurewebsites.net',
-  slug: 'bergmans-elektrotechniek',
+  origin: 'https://dev.tilly-hr.com',
+  slug: 'bergmans-elektrotechniek-3a8gnqm2',
 };
